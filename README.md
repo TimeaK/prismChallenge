@@ -15,16 +15,17 @@ the sudo code for the search it is as follows:
 //Save initial list 
 //get first element from initial list
 
-*Find endWord
--- recursively --
+ recursively, Find endWord
+ 
 //get all words that differ by one character
 //stop when endWord is found
 //keep all starting words in a list
---------------------------------------
--- recursively --
+
+recursively, next element from initial list
+
 //get next element from initial list
 //find enWord
---------------------------------------
+
 
 //check for the list with the minimum number of changes and assign it as the result
 
