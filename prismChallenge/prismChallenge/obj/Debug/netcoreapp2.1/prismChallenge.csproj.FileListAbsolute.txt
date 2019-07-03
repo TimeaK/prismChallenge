@@ -1,0 +1,11 @@
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\bin\Debug\netcoreapp2.1\prismChallenge.deps.json
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\bin\Debug\netcoreapp2.1\prismChallenge.runtimeconfig.json
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\bin\Debug\netcoreapp2.1\prismChallenge.runtimeconfig.dev.json
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\bin\Debug\netcoreapp2.1\prismChallenge.dll
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\bin\Debug\netcoreapp2.1\prismChallenge.pdb
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\obj\Debug\netcoreapp2.1\prismChallenge.csprojAssemblyReference.cache
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\obj\Debug\netcoreapp2.1\prismChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\obj\Debug\netcoreapp2.1\prismChallenge.AssemblyInfoInputs.cache
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\obj\Debug\netcoreapp2.1\prismChallenge.AssemblyInfo.cs
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\obj\Debug\netcoreapp2.1\prismChallenge.dll
+C:\Users\Timi\source\repos\prismChallenge\prismChallenge\obj\Debug\netcoreapp2.1\prismChallenge.pdb

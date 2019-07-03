@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prismChallenge", "prismChallenge\prismChallenge.csproj", "{12A27B9C-C332-48CA-B976-53A2A3DA5864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A27B9C-C332-48CA-B976-53A2A3DA5864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A27B9C-C332-48CA-B976-53A2A3DA5864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A27B9C-C332-48CA-B976-53A2A3DA5864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A27B9C-C332-48CA-B976-53A2A3DA5864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E480B0-1710-4D01-9F50-9A340E0596E6}
+	EndGlobalSection
+EndGlobal

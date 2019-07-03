@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "prismChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "arpa dora C:\\Users\\Timi\\Desktop\\words-english.txt C:\\Users\\Timi\\Desktop\\test.txt"
+    }
+  }
+}
